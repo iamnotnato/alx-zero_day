@@ -20,6 +20,6 @@ This is a project about understanding the fundamentals of git.
 <h4>Directories:</h4>
 
 * [0x03-git - Git](./0x03-git)
-* [c - C](./c)
 * [bash - Bash](./bash)
+* [c - C](./c)
 * [js - Js](./js)
