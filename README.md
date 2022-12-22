@@ -14,5 +14,5 @@ This is a project about understanding the fundamentals of git.
 
 * [0x03-git - Git](./0x03-git)
 * [c - C](./c)
-* [bash - bash](./bash)
-* [js - js](./js)
+* [bash - Bash](./bash)
+* [js - Js](./js)
