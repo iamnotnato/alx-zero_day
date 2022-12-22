@@ -11,5 +11,5 @@ This is a project about understanding the fundamentals of git.
 
 <h4>Files:</h4>
 
-* [index.js](index.js)
-* [main.js](main.js)
+* [index.js - Index](index.js)
+* [main.js - Main](main.js)
