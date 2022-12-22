@@ -11,6 +11,5 @@ This is a project about understanding the fundamentals of git.
 
 <h4>Files:</h4>
 
-* [98](98)
-* [alx](alx)
-* [school](school)
+* [index.js](index.js)
+* [main.js](main.js)
